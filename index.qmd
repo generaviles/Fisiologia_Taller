@@ -1,0 +1,7 @@
+# Introducción {.unnumbered}
+
+Éste es el manual digital correspondiente al Taller de Fisiología I para los estudiantes del plan de estudios de Licenciatura en Medicina 2024-2, grupo 204, subgrupos 1 y 2.
+
+:::{.callout-note}
+El contenido del manual es válido para el período **2025-1** en la [Escuela de Ciencias de la Salud](https://medicina.ens.uabc.mx/) de la [Universidad Autónoma de Baja California](https://www.uabc.mx/), campus Valle Dorado, Ensenada.
+:::

@@ -1,0 +1,71 @@
+# UNIDAD 1: Generalidades de la Fisiología
+
+## Información Inicial
+
+Te sugiero revisar a detalle los siguientes recursos. Seguramente aportarán a tu formación y a armar un proceso de estudio más efectivo.
+
+**Ésta información debe ser revisada y estudiada ANTES de la sesión semanal correspondiente al TALLER.**
+
+### ¿Cómo Estudiar Fisiología Sin Morir en el Intento?
+
+{{< video https://www.youtube.com/watch?v=ayvvhA_shwE
+    title="¿Cómo Estudiar Fisiología Sin Morir en el Intento?" 
+>}}
+
+### Introducción a la Fisiología
+
+{{< video https://www.youtube.com/watch?v=fSnXeAbFxaM
+    title="Conceptos Introductorios a la Fisiología" 
+>}}
+
+### Homeostasis y Mecanismos de Regulación
+
+{{< video https://www.youtube.com/watch?v=NzbPxaghwso
+    title="Homeostasis y Mecanismos de Regulación" 
+>}}
+
+## Casos Clínicos
+
+### Don Joaquín Turrubiates
+
+**Motivo de consulta al Ingreso a Urgencias**
+
+Paciente masculino de 65 años con antecedentes de hipertensión arterial y diabetes mellitus tipo 2 en tratamiento con insulina NPH. Acude a urgencias acompañado de su esposa por presentar desorientación, sudoración profusa, temblor en las manos y palpitaciones.
+
+Historia de la enfermedad actual:
+La esposa del paciente menciona que en los últimos días ha estado comiendo menos debido a una infección respiratoria leve. Esta mañana se aplicó su dosis habitual de insulina, pero no desayunó adecuadamente. Aproximadamente dos horas después, comenzó a sentirse mareado, con debilidad generalizada y sudoración fría, lo que motivó la consulta.
+
+**Exploración física:**
+
+  - Tensión arterial: 130/85 mmHg
+  - Frecuencia cardiaca: 110 lpm
+  - Frecuencia respiratoria: 18 rpm
+  - Glucosa capilar: 45 mg/dL (hipoglucemia severa)
+
+**Pregtuntas a Resolver en Urgencias**
+
+  - ¿Qué mecanismos homeostáticos están en riesgo en este paciente y cuál es su importancia en la fisiología normal?
+  - ¿Cuál es la respuesta esperada del cuerpo ante una hipoglucemia y qué sistemas están involucrados en esta compensación?
+  - ¿Por qué el paciente presenta taquicardia, sudoración y temblores?
+  - ¿Cuáles son las primeras medidas terapéuticas que deben implementarse para estabilizar al paciente?
+
+**Evolución Posterior al Manejo Inicial en Urgencias**
+
+Tras la administración de glucosa intravenosa al 50% en bolo, el paciente muestra mejoría progresiva del estado de conciencia y disminución de la sintomatología autonómica. Su glucosa en sangre aumenta a 120 mg/dL tras 15 minutos. Sin embargo, refiere dolor de cabeza leve, fatiga y ansiedad por lo sucedido.
+
+Los médicos deciden continuar con solución glucosada al 10% en infusión lenta para evitar hipoglucemias recurrentes y solicitan un monitoreo estricto de glucosa en sangre.
+
+**Exploración física post-tratamiento:**
+
+  - Estado neurológico: Paciente orientado en persona, espacio y tiempo.
+  - Tensión arterial: 125/80 mmHg
+  - Frecuencia cardiaca: 88 lpm
+  - Glucosa capilar: 120 mg/dL
+  - Estado emocional: Ansioso, preocupado por el futuro manejo de su diabetes.
+
+**Preguntas a Resolver en la consutla de seguimiento:**
+
+  - ¿Qué complicaciones podrían surgir tras la hipoglucemia y qué medidas deben tomarse para prevenirlas?
+  - ¿Qué ajustes en el tratamiento y en el estilo de vida deberían recomendarse para evitar nuevos episodios de hipoglucemia?
+  - ¿Cómo influye el control de la homeostasis glucémica en la prevención de complicaciones crónicas en pacientes diabéticos?
+  - ¿Cuáles son los riesgos de un tratamiento inadecuado en este paciente y cómo se pueden mitigar?

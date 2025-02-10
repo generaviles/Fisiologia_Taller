@@ -1,0 +1,27 @@
+project:
+  type: book
+  output-dir: docs
+number-depth: 3
+
+book:
+  title: "Manual Taller de Fisiología I"
+  subtitle: "Período 2025-1"
+  author: "Dr. Gener José Avilés Rodríguez"
+  date: "Enero a Mayo 2025"
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - unidad_1.qmd
+    - unidad_2.qmd
+    - unidad_3.qmd
+    - unidad_4.qmd
+    - unidad_5.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: darkly
+
+
