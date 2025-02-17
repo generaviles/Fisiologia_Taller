@@ -11,12 +11,16 @@ book:
   chapters:
     - index.qmd
     - intro.qmd
-    - unidad_1.qmd
-    - unidad_2.qmd
-    - unidad_3.qmd
-    - unidad_4.qmd
-    - unidad_5.qmd
-    - references.qmd
+    - part: "UNIDAD I"
+      chapters:
+        - seccion_1.1.qmd
+        - seccion_1.2.qmd
+    - part: "UNIDAD II"
+      chapters:
+        - unidad_3.qmd
+        - unidad_4.qmd
+        - unidad_5.qmd
+        - references.qmd
 
 bibliography: references.bib
 

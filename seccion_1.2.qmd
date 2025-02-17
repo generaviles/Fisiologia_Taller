@@ -1,0 +1,22 @@
+# Líquidos, Electrolitos y Desequilibrio Hidroelectrolítico
+
+## Videos recomendados a revisar antes de la sesión semanal
+
+### Líquidos y Compartimentos Corporales
+
+{{< video https://www.youtube.com/watch?v=2Ij7Py3erEk
+    title="Líquidos y Compartimentos Corporales" 
+>}}
+
+### Homeostasis del Agua y los Electrolitos
+
+{{< video https://www.youtube.com/watch?v=0NnwYC9My1M&t=307s
+    title="Homeostasis del Agua y los Electrolitos" 
+>}}
+
+### Desequilibrios hidroelectrolíticos
+
+{{< video https://www.youtube.com/watch?v=vacHAvhlqRc
+    title="Desequilibrios Hidroelectrolíticos" 
+>}}
+
