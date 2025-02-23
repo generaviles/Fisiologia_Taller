@@ -1,0 +1,48 @@
+# Iones, Canales Iónicos y Funciones Celulares
+
+## Videos recomendados a revisar antes de la sesión semanal
+
+### Generalidades de Iones
+
+{{< video https://www.youtube.com/watch?v=5Qf_SSQn06I
+    title="¿Qué es un Ión?" 
+>}}
+
+### Canales Iónicos, Tipos y Resumen
+
+{{< video https://www.youtube.com/watch?v=1KykVS7XTnM
+    title="Canales Iónicos" 
+>}}
+
+### Canales Iónicos
+
+{{< video https://www.youtube.com/watch?v=R6CGi8HC5cA&t=15s
+    title="Canales Iónicos" 
+>}}
+
+## El curioso caso de **Ionela Pérez**
+
+Paciente femenina de 32 años, previamente sana, acude al servicio de urgencias tras presentar episodios recurrentes de debilidad muscular, calambres y parálisis transitoria en las extremidades inferiores. Refiere que estos síntomas suelen aparecer tras ejercicio físico intenso o después de ingerir carbohidratos en exceso. Durante los episodios, conserva el estado de conciencia y la sensibilidad.
+
+**Exploración física:**
+
+  - Durante el episodio: Debilidad muscular flácida en miembros inferiores (fuerza 3/5), sin alteraciones en reflejos osteotendinosos.
+  - Entre episodios: Exploración neurológica normal.
+
+**Resultados de laboratorio:**
+
+  - Potasio sérico: 2.9 mEq/L (3.5-5.0 mEq/L) durante el episodio.
+  - Sodio sérico: 140 mEq/L (135-145 mEq/L)
+  - Calcio sérico: 9.8 mg/dL (8.5-10.5 mg/dL)
+  - Magnesio sérico: 1.9 mg/dL (1.7-2.2 mg/dL)
+  - Creatinina sérica: Normal
+  - Electrocardiograma (EKG): Ondas U prominentes y prolongación del intervalo QT.
+
+Tras realizar los estudios correspondientes, se diagnostica **parálisis periódica hipopotasémica**, un trastorno causado por una disfunción en los canales iónicos de sodio, potasio y calcio en la membrana celular del músculo esquelético.
+
+**Preguntas Guiadoras**
+
+  1. ¿Cómo afecta la disfunción de los canales de potasio y sodio a la excitabilidad de las células musculares?
+  1. ¿Por qué la hipopotasemia contribuye a los síntomas de este trastorno?
+  1. ¿Cómo se relaciona el ejercicio físico y el consumo excesivo de carbohidratos con los episodios de parálisis en esta paciente?
+  1. ¿Cuál sería el tratamiento agudo y crónico para esta paciente, considerando el papel de los canales iónicos?

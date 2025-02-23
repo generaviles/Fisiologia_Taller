@@ -15,9 +15,9 @@ book:
       chapters:
         - seccion_1.1.qmd
         - seccion_1.2.qmd
+        - seccion_1.3.qmd
     - part: "UNIDAD II"
       chapters:
-        - unidad_3.qmd
         - unidad_4.qmd
         - unidad_5.qmd
         - references.qmd
