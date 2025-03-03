@@ -1,0 +1,60 @@
+# Potencial de acción, transmisión sináptica y neuromuscular
+
+## Videos recomendados a revisar antes de la sesión semanal
+
+### Potencial de acción y potencial de membrana
+
+{{< video https://www.youtube.com/watch?v=AQU2G0R6yVA
+    title="Potencial de acción y potencial de membrana" 
+>}}
+
+### Potencial de acción
+
+{{< video https://www.youtube.com/watch?v=wVvt0jQM33c
+    title="Potencial de acción" 
+>}}
+
+### Potencial de membrana
+
+{{< video https://www.youtube.com/watch?v=TGcd_CwI1gI
+    title="Potencial de membrana" 
+>}}
+
+### Potencial de acción y local
+
+{{< video https://www.youtube.com/watch?v=VcYT5Atzy_s
+    title="Potencial de acción y local" 
+>}}
+
+### Unión neuromuscular
+
+{{< video https://www.youtube.com/watch?v=ViujsSvEVVw
+    title="Unión neuromuscular" 
+>}}
+
+
+## El muy recordado caso de **Axonio Pérez**
+
+Paciente masculino de 45 años, electricista de profesión, acude a urgencias por visión doble, dificultad para tragar, debilidad progresiva en los músculos de las extremidades superiores e inferiores y fatiga extrema al final del día. Refieren que los síntomas mejoran después del descanso y empeoran con la actividad física.
+
+**Exploración física:**
+  
+  - Ptosis palpebral bilateral.
+  - Disartria leve.
+  - Fuerza muscular de 4/5 en miembros superiores e inferiores, con fatiga progresiva tras repetidos intentos de contracción.
+  - Reflejos osteotendinosos normales.
+
+**Resultados de laboratorio y estudios complementarios:**
+
+  - Prueba del hielo: Mejora transitoria de la ptosis.
+  - Electromiografía (EMG): Potenciales de acción decrecientes tras estimulación repetitiva.
+  - Anticuerpos contra los receptores de acetilcolina: Positivos.
+
+El paciente es diagnosticado con **Miastenia Gravis**, un trastorno autoinmune en el cual los anticuerpos bloquean los receptores postsinápticos de acetilcolina (ACh) en la unión neuromuscular, afectando la transmisión del impulso nervioso.
+
+**Preguntas Guiadoras**
+
+  1. ¿Cómo afecta la Miastenia Gravis a la transmisión sináptica en la unión neuromuscular?
+  1. Explique el papel de los canales iónicos de sodio y calcio en la generación del potencial de acción en la membrana postsináptica del músculo esquelético.
+  1. ¿Por qué la estimulación repetitiva de la unión neuromuscular en la electromiografía muestra una disminución progresiva en la amplitud del potencial de acción?
+  1. ¿Cuál es la base fisiológica del tratamiento con inhibidores de la acetilcolinesterasa en la Miastenia Gravis?

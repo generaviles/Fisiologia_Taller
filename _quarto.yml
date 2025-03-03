@@ -16,6 +16,7 @@ book:
         - seccion_1.1.qmd
         - seccion_1.2.qmd
         - seccion_1.3.qmd
+        - seccion_1.4.qmd
     - part: "UNIDAD II"
       chapters:
         - unidad_4.qmd
