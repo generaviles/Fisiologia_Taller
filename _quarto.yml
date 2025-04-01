@@ -19,8 +19,7 @@ book:
         - seccion_1.4.qmd
     - part: "UNIDAD II"
       chapters:
-        - unidad_4.qmd
-        - unidad_5.qmd
+        - seccion_2.1.qmd
         - references.qmd
 
 bibliography: references.bib
@@ -28,5 +27,4 @@ bibliography: references.bib
 format:
   html:
     theme: darkly
-
 

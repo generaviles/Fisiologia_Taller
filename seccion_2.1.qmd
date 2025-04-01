@@ -1,0 +1,50 @@
+# Músculo Cardíaco y Electrofisiología del Corazón
+
+## Videos recomendados a revisar antes de la sesión semanal
+
+### Músculo Cardiaco: Contracción
+
+{{< video https://www.youtube.com/watch?v=krtCJNZ7aK8
+    title="¿Músculo Cardíaco: Contracción?" 
+>}}
+
+### Potencial de Acción Cardíaco
+
+{{< video https://www.youtube.com/watch?v=B8NMMekL2po
+    title="Potencial de Acción Cardíaco" 
+>}}
+
+### Potencial de Acción Cardíaco Paso a Paso
+
+{{< video https://www.youtube.com/watch?v=X2q0GN_eQY8
+    title="Potencial de Acción Cardíaca Paso a Paso" 
+>}}
+
+
+## El urgente caso de Calcino Troponas
+
+### Historia Clínica
+
+Paciente masculino de 62 años, con antecedentes de hipertensión arterial mal controlada y cardiopatía isquémica, acude a consulta por disminución progresiva de la tolerancia al ejercicio, fatiga y sensación de palpitaciones. Niega dolor torácico actual, pero menciona que hace seis meses tuvo un evento de dolor torácico que no fue valorado médicamente.
+
+**Exploración física:**
+
+  - Frecuencia cardíaca: 96 lpm
+  - Presión arterial: 115/70 mmHg
+  - Ruidos cardíacos: S3 audible
+  - Ingurgitación yugular positiva
+  - Edema leve en tobillos
+
+**Estudios complementarios:**
+
+  - Ecocardiograma: Fracción de eyección del ventrículo izquierdo: 40%
+  - Biomarcadores: Troponina T basal ligeramente elevada
+  - Electrocardiograma: Q en cara inferior
+  - Laboratorios: Normales salvo elevación leve de BNP
+
+### Preguntas Guiadoras
+
+  1. ¿Qué papel desempeña el calcio intracelular en la contracción del músculo cardíaco?
+  1. ¿Cómo influye la concentración de calcio en la fuerza de contracción del miocardio?
+  1. ¿Qué mecanismos pueden estar alterados en este paciente para explicar la disfunción contráctil post-isquemia?
+  1. ¿Qué hallazgo del examen físico sugiere disfunción en la fase de contracción ventricular y cómo se relaciona con la fisiología?
