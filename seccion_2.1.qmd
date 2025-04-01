@@ -4,22 +4,15 @@
 
 ### Músculo Cardiaco: Contracción
 
-{{< video https://www.youtube.com/watch?v=krtCJNZ7aK8
-    title="¿Músculo Cardíaco: Contracción?" 
->}}
+{{< video https://www.youtube.com/watch?v=krtCJNZ7aK8 >}}
 
 ### Potencial de Acción Cardíaco
 
-{{< video https://www.youtube.com/watch?v=B8NMMekL2po
-    title="Potencial de Acción Cardíaco" 
->}}
+{{< video https://www.youtube.com/watch?v=B8NMMekL2po >}}
 
 ### Potencial de Acción Cardíaco Paso a Paso
 
-{{< video https://www.youtube.com/watch?v=X2q0GN_eQY8
-    title="Potencial de Acción Cardíaca Paso a Paso" 
->}}
-
+{{< video https://www.youtube.com/watch?v=X2q0GN_eQY8 >}}
 
 ## El urgente caso de Calcino Troponas
 
