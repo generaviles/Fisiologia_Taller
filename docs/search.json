@@ -183,5 +183,27 @@
       "UNIDAD II",
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>Músculo Cardíaco y Electrofisiología del Corazón</span>"
     ]
+  },
+  {
+    "objectID": "seccion_2.2.html",
+    "href": "seccion_2.2.html",
+    "title": "6  Electrofisiología y Electrocardiograma",
+    "section": "",
+    "text": "6.1 Casos Clínicos a Resolver\nConsidera los siguientes casos clínicos y resuélvelos de acuerdo al conocimiento que tienes o debas adquirir sobre electrofisiología y electrocardiografía.",
+    "crumbs": [
+      "UNIDAD II",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Electrofisiología y Electrocardiograma</span>"
+    ]
+  },
+  {
+    "objectID": "seccion_2.2.html#casos-clínicos-a-resolver",
+    "href": "seccion_2.2.html#casos-clínicos-a-resolver",
+    "title": "6  Electrofisiología y Electrocardiograma",
+    "section": "",
+    "text": "6.1.1 1. Caso clínico – Interpretación de las ondas y segmentos del ECG\nCaso:\nPaciente masculino de 47 años, acude por palpitaciones ocasionales. Se le realiza un ECG de 12 derivaciones. Se observa:\n\nOnda P positiva en DII, duración de 120 ms\nComplejo QRS de 80 ms\nOnda T positiva y simétrica\nSegmento ST isoeléctrico\nIntervalo PR de 160 ms\n\nPregunta 1:\n¿Cuál es el significado fisiológico del intervalo PR y su valor en este paciente?\n\nRetraso en la repolarización ventricular; es anormal\nTiempo de conducción auriculoventricular; es normal\nTiempo de repolarización auricular; es acortado\nTiempo entre la activación ventricular y la repolarización\n\nExplica tu respuesta:\n\n\n6.1.2 2. Caso clínico – Derivaciones del ECG y localización del daño\nCaso\nPaciente de 61 años, diabético, con dolor torácico irradiado a brazo izquierdo. ECG:\n\nElevación del ST en derivaciones V1 a V4\nOnda Q profunda en V2-V3\nT invertidas en las mismas derivaciones\n\nPregunta 2:\n¿Cuál es la localización del infarto y qué arteria probablemente está comprometida según las derivaciones afectadas?\nExplica tu respuesta:\n\n\n6.1.3 3. Caso clínico – Determinación de ritmo sinusal y regularidad\nCaso:\nMujer de 38 años, asintomática. ECG:\n\nOnda P antes de cada QRS, positiva en DII\nIntervalo R-R constante\nFrecuencia: 72 lpm\n\nPregunta 3:\n¿Cuál de las siguientes conclusiones es correcta respecto al ritmo de esta paciente?\n\nRitmo sinusal irregular\nFibrilación auricular\nRitmo sinusal regular\nBradicardia sinusal\n\nExplica tu respuesta:\n\n\n6.1.4 4. Caso clínico – Frecuencia cardíaca y eje eléctrico\nCaso:\nPaciente masculino de 70 años con disnea y mareo. ECG muestra:\n\nOnda P normal y presente en todas las derivaciones\nRitmo regular\nSe alcanzan a identificar 30 cuadros de los más chicos en el papel del electrocardiograma entre ondas R.\nQRS estrecho\nFrecuencia cardíaca a la auscultación de 48 lpm\nDerivación I: QRS positivo\nDerivación aVF: QRS negativo\n\nPregunta 4a:\n¿Cómo se calcula la frecuencia cardíaca en un ECG con ritmo regular y cuál es la frecuencia estimada por ECG en este paciente?\nPregunta 4a: ¿Qué indica la combinación de QRS positivo en DI y negativo en aVF?\n\nEje eléctrico normal\nEje desviado a la izquierda\nEje desviado a la derecha\nEje indeterminado",
+    "crumbs": [
+      "UNIDAD II",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Electrofisiología y Electrocardiograma</span>"
+    ]
   }
 ]

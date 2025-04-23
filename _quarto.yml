@@ -20,6 +20,7 @@ book:
     - part: "UNIDAD II"
       chapters:
         - seccion_2.1.qmd
+        - seccion_2.2.qmd
         - references.qmd
 
 bibliography: references.bib

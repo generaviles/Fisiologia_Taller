@@ -1,0 +1,91 @@
+# Electrofisiología y Electrocardiograma
+
+## Casos Clínicos a Resolver
+
+Considera los siguientes casos clínicos y resuélvelos de acuerdo al conocimiento que tienes o debas adquirir sobre electrofisiología y electrocardiografía.
+
+### 1. Caso clínico – Interpretación de las ondas y segmentos del ECG
+
+**Caso:**
+
+Paciente masculino de 47 años, acude por palpitaciones ocasionales. Se le realiza un ECG de 12 derivaciones. Se observa:
+
+  - Onda P positiva en DII, duración de 120 ms
+  - Complejo QRS de 80 ms
+  - Onda T positiva y simétrica
+  - Segmento ST isoeléctrico
+  - Intervalo PR de 160 ms
+
+**Pregunta 1:**
+
+¿Cuál es el significado fisiológico del intervalo PR y su valor en este paciente?
+
+a) Retraso en la repolarización ventricular; es anormal
+a) Tiempo de conducción auriculoventricular; es normal
+a) Tiempo de repolarización auricular; es acortado
+a) Tiempo entre la activación ventricular y la repolarización
+
+*Explica tu respuesta:*
+
+### 2. Caso clínico – Derivaciones del ECG y localización del daño
+
+**Caso**
+
+Paciente de 61 años, diabético, con dolor torácico irradiado a brazo izquierdo. ECG:
+
+ - Elevación del ST en derivaciones V1 a V4
+ - Onda Q profunda en V2-V3
+ - T invertidas en las mismas derivaciones
+
+**Pregunta 2:** 
+
+¿Cuál es la localización del infarto y qué arteria probablemente está comprometida según las derivaciones afectadas?
+
+*Explica tu respuesta:*
+
+### 3. Caso clínico – Determinación de ritmo sinusal y regularidad
+
+**Caso:**
+
+Mujer de 38 años, asintomática. ECG:
+
+ - Onda P antes de cada QRS, positiva en DII
+ - Intervalo R-R constante
+ - Frecuencia: 72 lpm
+
+**Pregunta 3:**
+
+¿Cuál de las siguientes conclusiones es correcta respecto al ritmo de esta paciente?
+
+a) Ritmo sinusal irregular
+a) Fibrilación auricular
+a) Ritmo sinusal regular
+a) Bradicardia sinusal
+
+*Explica tu respuesta:*
+
+### 4. Caso clínico – Frecuencia cardíaca y eje eléctrico
+
+**Caso:**
+
+Paciente masculino de 70 años con disnea y mareo. ECG muestra:
+
+ - Onda P normal y presente en todas las derivaciones
+ - Ritmo regular
+ - Se alcanzan a identificar 30 cuadros de los más chicos en el papel del electrocardiograma entre ondas R.
+ - QRS estrecho
+ - Frecuencia cardíaca a la auscultación de 48 lpm
+ - Derivación I: QRS positivo
+ - Derivación aVF: QRS negativo
+
+**Pregunta 4a:**
+
+¿Cómo se calcula la frecuencia cardíaca en un ECG con ritmo regular y cuál es la frecuencia estimada por ECG en este paciente?
+
+**Pregunta 4a:**
+¿Qué indica la combinación de QRS positivo en DI y negativo en aVF?
+
+a) Eje eléctrico normal
+a) Eje desviado a la izquierda
+a) Eje desviado a la derecha
+a) Eje indeterminado
